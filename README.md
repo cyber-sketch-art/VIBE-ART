@@ -1,0 +1,1 @@
+This Git repository is a curated collection of open-source projects built using the Vibe Coding paradigm—a development style popularized in 2025 by Andrej Karpathy. Vibe Coding prioritizes high-level intent, natural language prompting, and iterative AI collaboration over manual syntax and rigid boilerplate.
